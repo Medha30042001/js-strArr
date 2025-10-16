@@ -1,4 +1,5 @@
 //my attempt
+//https://onecompiler.com/javascript/43zq2jd87
 
 function charAtEvenPos(N,str) {
     for(let i=0; i<N; i++){
