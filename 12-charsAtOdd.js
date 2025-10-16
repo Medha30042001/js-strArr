@@ -1,4 +1,5 @@
 //my attempt
+//https://onecompiler.com/javascript/43zq2br4k
 
 function charAtOddPos(N,str) {
     for(let i=0; i<N; i++){
