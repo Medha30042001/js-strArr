@@ -1,4 +1,5 @@
 //my attempt
+//https://onecompiler.com/javascript/43zpqk9mv
 
 function oddsOfOdds(n,A){
   let count = 0;
