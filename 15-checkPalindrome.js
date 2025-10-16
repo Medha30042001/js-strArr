@@ -1,4 +1,5 @@
 //my attempt
+//https://onecompiler.com/javascript/43zq3ad2x
 
 function checkPalindrome(str){
 let check = true;
