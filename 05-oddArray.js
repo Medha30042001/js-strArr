@@ -1,4 +1,5 @@
 //my attempt
+//https://onecompiler.com/javascript/43zpk6s2p
 
 function oddArray(n, arr){
     for(let i=0; i<n; i++){
