@@ -1,4 +1,5 @@
 //my attempt
+//https://onecompiler.com/javascript/43zq36kbd
 
 function checkVowel(N, str) {
   let vowels = 'aeiouAEIOU';
