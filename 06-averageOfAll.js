@@ -1,4 +1,5 @@
 //my attempt
+//https://onecompiler.com/javascript/43zpkbcyv
 
 function averageOfAll(n, arr){
   let sum = 0;
