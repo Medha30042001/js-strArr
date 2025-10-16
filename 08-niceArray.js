@@ -1,4 +1,5 @@
 //my attempt
+//https://onecompiler.com/javascript/43zpw6qb4
 
 function niceArray(N, array, K) {
   let count = 0;
